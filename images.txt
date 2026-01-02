@@ -7,3 +7,10 @@ xhofe/alist:latest
 lss233/kirara-agent-framework:latest
 containrrr/watchtower
 initialencounter/llonebot:latest
+
+
+eclipse-temurin:8-jdk
+confluentinc/cp-kafka:7.0.1
+confluentinc/cp-zookeeper:7.0.1
+mysql:8.0
+redis:6.2-alpine
