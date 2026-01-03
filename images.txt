@@ -16,7 +16,6 @@ mysql:8.0
 redis:6.2-alpine
 
 
-
 python:3.9-slim
 openjdk:11-jre-slim
 bitnami/zookeeper:latest
