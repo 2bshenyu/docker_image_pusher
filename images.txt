@@ -14,3 +14,10 @@ confluentinc/cp-kafka:7.0.1
 confluentinc/cp-zookeeper:7.0.1
 mysql:8.0
 redis:6.2-alpine
+
+
+
+ python:3.9-slim
+openjdk:11-jre-
+bitnami/zookeeper:latest
+ bitnami/kafka:latest
