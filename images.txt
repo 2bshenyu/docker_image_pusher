@@ -14,8 +14,7 @@ confluentinc/cp-zookeeper:7.0.1
 mysql:8.0
 redis:6.2-alpine
 
-python:3.9-slim
-bitnami/zookeeper:latest
-bitnami/kafka:latest
-openjdk:11-jre
 
+#MC配置
+githubyumao/mcsmanager-web:latest
+githubyumao/mcsmanager-daemon:latest
